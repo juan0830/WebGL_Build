@@ -39,8 +39,13 @@ Thumbs.db
 /UserSettings/
 
 # Uncomment to ignore LFS tracking for large files
-# *.dll
-# *.dylib
-# *.so
-# *.a
-# *.wasm
+*.dll
+*.dylib
+*.so
+*.a
+*.wasm
+
+# Ignore API key and config files
+config.json
+keys/
+.env
