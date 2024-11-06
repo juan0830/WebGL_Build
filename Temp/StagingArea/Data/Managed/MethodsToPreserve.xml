@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Continue">
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+			<method name="OnEnd"/>
+			<method name="OnHome"/>
+			<method name="OnHome"/>
+			<method name="OnHome"/>
+			<method name="OnHome"/>
+		</type>
+		<type fullname="StartButtonController">
+			<method name="LoadScenes"/>
+		</type>
+	</assembly>
+</linker>

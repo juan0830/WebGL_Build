@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{AC06D0EE-BDB5-9F28-7419-67685FF113F6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DataManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Continue.cs" Line="21" Column="6" />
+      <File FileName="Assets/Scripts/ExerciseSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DataManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RandomGridActivation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DraggableItem.cs" />
+      <File FileName="Assets/HuggingFaceAPI/Examples/Scripts/SpeechRecognitionExample.cs" Line="1" Column="1" />
+      <File FileName="Assets/FrostweepGames/GCSpeechRecognition/GCSR_Examples/GCSR_Example_1/GCSR_Example.cs" Line="1" Column="1" />
+      <File FileName="Assets/FrostweepGames/GCSpeechRecognition/Scripts/GCSpeechRecognition.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/VerbalExerciseScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fe118314-4a42-484a-a0b7-b1755dbd3220" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
